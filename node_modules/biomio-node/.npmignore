@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+.env
+*.log
+app_data.db

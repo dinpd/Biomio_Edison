@@ -1,0 +1,16 @@
+{
+  "name": "biomio-node-test-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "biomio-node": "git+ssh://git@bitbucket.org:biomio/biomio-node.git#v1.1.0",
+    "debug": "^2.2.0",
+    "fs": "0.0.2"
+  }
+}
